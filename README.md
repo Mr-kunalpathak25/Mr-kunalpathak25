@@ -94,4 +94,6 @@
 
 ---
 
-✨ _“Keep learning. Keep building.”_
+**✨ _“Keep learning. Keep building.”_
+💻 _"Code, learn, repeat – because growth is a continuous loop."_**
+                                        
