@@ -1,74 +1,68 @@
 <h1 align="center">Hi 👋, I'm Kunal Pathak</h1>
-<h3 align="center">Aspiring Computer Engineer | Web Developer | Java & Python Enthusiast</h3>
+<h3 align="center">Final Year Computer Science Student | Full-Stack Web Developer | Java & Python Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mr-kunalpathak25&label=Profile%20views&color=0e75b6&style=flat" alt="mr-kunalpathak25" />
+  <img src="https://komarev.com/ghpvc/?username=mr-kunalpathak25&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ---
 
-🌟 **About Me**
+## 👨‍💻 About Me
 
-- 🎓 I'm a third-year **Computer Science Engineering** student at **Sanjivani College of Engineering, Kopargaon**
-- 💻 Passionate about **Web Development**, **Java**, **Python**, and exploring **Data Mining**, **IoT**, and **Cybersecurity**
-- 👨‍💻 Actively learning **MERN Stack**, **DSA**, and building user-friendly applications
-- 🌱 Currently exploring:
-  - 🔷 *Java Servlets* with Tomcat (Eclipse)
-  - 🔷 *Machine Learning* and *Data Mining Algorithms*
-  - 🔷 *Client-Server Architecture*
-- 🧠 Love to practice coding on platforms like **CodeChef**
+- 🎓 Final Year B.Tech in **Computer Science & Engineering** at *Sanjivani College of Engineering, Kopargaon (Autonomous)*
+- 💡 Passionate about solving real-world problems using **Web Technologies**, **Java**, **Python**, **IoT**, and **Data Mining**
+- 🧠 Strong foundation in **MERN Stack**, **Java Servlets**, **DSA**, **Machine Learning**, and **Client-Server Architectures**
+- 🛠️ Dedicated to building secure, scalable, and intuitive applications
+- 💻 Daily coder on **CodeChef**, always upskilling through hands-on learning
 
 ---
 
-🚀 **Projects**
+## 🚀 Notable Projects
 
-- 🔹 **Sanjivani's CIA Report Generator**  
-  *Faculty Dashboard for internal assessment management using HTML, JS, PHP, MySQL*
-- 🔹 **Playground Equipment Management System**  
-  *Java Servlet-based project with Tomcat server for managing playground inventory and reports*
-- 🔹 **Personalized Learning System for Students**  
-  *Built using Django; clusters students based on performance and recommends personalized learning paths*
-- 🔹 **Traffic Management & Accident Prediction System**  
-  *Python & MySQL-based data mining project for predicting accident-prone zones*
-- 🔹 **IoT Based Smart Plant Monitoring System**  
-  *Monitors plant conditions using sensors; automated report created from presentation*
-- 🔹 **Arithmetic Calculator** (1st Year Mini Project)  
-  *Basic GUI calculator with all operations*
-- 🔹 **Placement Management System**  
-  *Student and company database management using C++/Java*
+| Project | Description |
+|--------|-------------|
+| **Sanjivani's CIA Report Generator** | Faculty Dashboard for Internal Assessments using `HTML`, `JavaScript`, `PHP`, `MySQL` |
+| **Playground Equipment Management System** | Servlet-based app with Tomcat server for equipment inventory and reporting |
+| **Personalized Learning System** | `Django` app that recommends personalized learning paths using student clustering |
+| **Traffic Management & Accident Prediction System** | Data mining-based system using `Python + MySQL` for predicting accident-prone zones |
+| **IoT Smart Plant Monitoring System** | Real-time environmental monitoring system with automated reports |
+| **Placement Management System** | Built using `C++/Java`, focuses on student and company database management |
+| **Arithmetic Calculator (Mini Project)** | GUI-based calculator with basic mathematical operations |
 
 ---
 
-💼 **Internships**
+## 💼 Internship Experience
 
-- ✅ **CodSoft** – *Web Development Intern* (July–Aug 2024)  
-  *Built responsive web apps and worked on UI/UX design principles*
-- ✅ **Cognifyz Technologies** – *Java Developer Intern* (Aug–Sept 2024)  
-  - Task 1: Temperature Converter (GUI Console App)  
-  - Task 2: Palindrome Checker  
-  - Task 3: Simple Login GUI using Java Swing
+| Company | Role | Duration | Key Contributions |
+|--------|------|----------|--------------------|
+| **CodSoft** | Web Development Intern | Jul–Aug 2024 | Developed responsive web apps, worked on UI/UX and frontend logic |
+| **Cognifyz Technologies** | Java Development Intern | Aug–Sep 2024 | Created Java Swing-based desktop tools: Temp Converter, Palindrome Checker, Login System |
 
 ---
 
-🏆 **Hackathons & Achievements**
+## 🏆 Achievements & Hackathons
 
-- 🥈 Participated in **Parul Hack Verse Hackathon 2025** – *Team CodeChamps*
-- 🥇 Chosen as **Principal for a Day** on Teachers' Day (Std. 5th)
-- 📜 Completed multiple Coursera & Infosys Springboard certifications:
-  - *Mastering Nmap*, *STL in C++*, *Object-Oriented Programming*, *Cryptography*, *Linux*, *Ubuntu*, etc.
-
----
-
-📫 **Let's Connect**
-
-- 📧 Email: [kunalpathak25012004@gmail.com](mailto:kunalpathak25012004@gmail.com)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/kunal-pathak-0109a3269/)
-- 💻 [GitHub](https://github.com/Mr-kunalpathak25)
-- 📱 Phone: +91 7972839585
+- 🥈 Finalist – **Parul Hack Verse Hackathon 2025** (*Team CodeChamps*)
+- 🥇 Honored as **Principal for a Day** (5th Grade, Teachers' Day)
+- 📜 Completed **15+ certifications** from Coursera and Infosys Springboard in:
+  - `Mastering Nmap`, `C++ STL`, `Cryptography`, `Linux`, `Object-Oriented Programming`, `Java`, `C`, `HTML/CSS`, and more
 
 ---
 
-🛠️ **Languages and Tools**
+## 📚 Certifications Snapshot
+
+- ✅ **Coursera**:
+  - Object-Oriented Programming Specialization (University of London)
+  - C++ Data Structures in STL
+  - Number Theory & Cryptography (UC San Diego)
+  - Linux Fundamentals, Java Basics, C Programming, HTML Basics
+- ✅ **Infosys Springboard**:
+  - Mastering Nmap
+- ✅ **Other MOOCs**: Introduction to Git, JavaScript Essentials, and Web Security
+
+---
+
+## 🧰 Tech Stack & Tools
 
 <p>
   <img src="https://img.shields.io/badge/C-blue?style=flat-square&logo=c" />
@@ -81,19 +75,32 @@
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black" />
 </p>
 
 ---
 
-📊 **GitHub Stats**
+## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mr-kunalpathak25&show_icons=true&theme=radical" alt="kunal's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-kunalpathak25&layout=compact&theme=radical" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mr-kunalpathak25&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-kunalpathak25&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
-**✨ _“Keep learning. Keep building.”_
-💻 _"Code, learn, repeat – because growth is a continuous loop."_**
-                                        
+## 📬 Let's Connect
+
+- 📧 Email: [kunalpathak25012004@gmail.com](mailto:kunalpathak25012004@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/kunal-pathak-0109a3269](https://www.linkedin.com/in/kunal-pathak-0109a3269/)
+- 💻 GitHub: [github.com/Mr-kunalpathak25](https://github.com/Mr-kunalpathak25)
+- 📱 Phone: +91 7972839585
+
+---
+
+## 💬 Quote I Believe In
+
+> ✨ *“Keep learning. Keep building.”*  
+> 💻 *“Code, learn, repeat – because growth is a continuous loop.”*
+
