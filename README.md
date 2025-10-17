@@ -22,6 +22,9 @@
 | **Personalized Learning System** | A `Django` project recommending personalized courses using clustering and data mining techniques. |
 | **Traffic Management & Accident Prediction System** | Predicts accident-prone zones using `Python`, `MySQL`, and data warehousing techniques. |
 | **IoT Smart Plant Monitoring System** | IoT-based system for real-time environmental and soil monitoring with automated alerts. |
+| **NLP Product Title Category Prediction** | Deep learning-based NLP model that classifies product titles into relevant categories using text preprocessing and model training. |
+| **Helmet Detection System** | Computer vision model for detecting helmet usage in real-time using `OpenCV` and `TensorFlow`. |
+| **Parallel Co-Similarity Search** | High-performance search algorithm for identifying similar data points using parallel computing and cosine similarity. |
 | **Placement Management System** | Web app for student and company database management built using `C++/Java`. |
 | **Arithmetic Calculator (Mini Project)** | Basic arithmetic calculator with GUI, created during the first year of academics. |
 
@@ -79,7 +82,7 @@
 `MySQL` • `MongoDB` • `Firebase` • `AWS (Basics)` • `XAMPP`
 
 ### 🧠 **Domains & Concepts**
-`Data Structures & Algorithms` • `AI & Machine Learning` • `Data Mining & Warehousing` • `IoT Systems` • `Cybersecurity Fundamentals`
+`Data Structures & Algorithms` • `AI & Machine Learning` • `Deep Learning` • `NLP` • `Computer Vision` • `Data Mining & Warehousing` • `IoT Systems` • `Cybersecurity Fundamentals`
 
 ### ⚙️ **Tools & IDEs**
 `VS Code` • `Eclipse IDE` • `PyCharm` • `Git & GitHub` • `Weka` • `XAMPP Server`
